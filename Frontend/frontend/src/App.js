@@ -1,4 +1,3 @@
-
 import styled, { ThemeProvider } from "styled-components";
 import { darkTheme, lightTheme } from "./utils/Theme";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
